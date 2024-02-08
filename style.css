@@ -149,7 +149,7 @@ p {
     padding-bottom: 2%;
     padding-left: 5%;
     padding-right: 5%; 
-    float:inline-start;
+    float:left;
 } 
 
 .info-box img{
